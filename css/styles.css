@@ -1,0 +1,30 @@
+body
+{
+    background-color:#37517E; 
+}
+.nav-custom
+{
+    background-color:#37517E; 
+}
+.boton
+{
+    color: #f9fbfd;
+}
+.coloruno
+{
+    color: #93a0aa
+}
+.colordos
+{
+    color: #3A7BAA
+}
+.footer-custom
+{
+    background-color: rgb(255, 255, 255);  /* Tenemos que llamarlo en el footer */
+    
+}
+.mt-n1
+ {
+    margin-top: -100px;
+}
+  
